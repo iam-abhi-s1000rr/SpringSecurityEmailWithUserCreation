@@ -1,10 +1,10 @@
-package com.springsecurity;
+package com.workshop.abhisheksecurity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringsecurityApplicationTests {
+class AbhisheksecurityApplicationTests {
 
 	@Test
 	void contextLoads() {
